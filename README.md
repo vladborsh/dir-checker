@@ -2,11 +2,11 @@
 
 Use it when you need polling changes in one directory and move changed (or added) files to another
 
+Example: dirch -p polling_directory_name -c destination_directory_name
+
 ``` bash
 # Install
 npm intall
-
-# Link
 npm link
 
 # Usage
