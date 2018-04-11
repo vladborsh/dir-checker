@@ -6,5 +6,5 @@ npm intall
 npm link
 
 # Usage
-node index.js -p /Users/vladborsh/Documents/projects/lumos-sbdev -c /Users/vladborsh/Documents/projects/lumos-sb-ci
+dirch -p /Users/vladborsh/Documents/projects/lumos-sbdev -c /Users/vladborsh/Documents/projects/lumos-sb-ci
 ```
