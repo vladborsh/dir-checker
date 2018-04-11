@@ -6,5 +6,8 @@ npm intall
 npm link
 
 # Usage
-dirch -p /Users/vladborsh/Documents/projects/lumos-sbdev -c /Users/vladborsh/Documents/projects/lumos-sb-ci
+dirch -p /Users/myuser/Documents/projects/rep -c /Users/myuser/Documents/projects/gitrep
+
+# Help
+dirch --help
 ```
