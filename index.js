@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const program    = require('commander');
 const chokidar   = require('chokidar');
 const gitignore  = require('parse-gitignore');

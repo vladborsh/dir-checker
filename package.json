@@ -1,5 +1,5 @@
 {
-  "name": "dir-checker",
+  "name": "dirch",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,7 @@
     "commander": "^2.15.1",
     "mkdirp": "^0.5.1",
     "parse-gitignore": "^0.4.0"
-  }
+  },
+  "preferGlobal": true,
+  "bin": "./index.js"
 }
